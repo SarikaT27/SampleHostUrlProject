@@ -11,7 +11,7 @@ body {
 
 /* Header */
 header {
-    background: #003366;
+    background: #0b3c5d;
     color: white;
     padding: 15px 0;
 }
@@ -32,23 +32,20 @@ nav a {
 
 /* Hero */
 .hero {
-    background: #f4f4f4;
+    background: #f0f4f8;
     text-align: center;
-    padding: 80px 20px;
+    padding: 90px 20px;
 }
 
 .hero h2 {
     font-size: 36px;
-}
-
-.hero p {
-    margin: 15px 0;
+    color: #0b3c5d;
 }
 
 .btn {
     display: inline-block;
-    padding: 10px 20px;
-    background: #003366;
+    padding: 12px 25px;
+    background: #0b3c5d;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -58,10 +55,6 @@ nav a {
 .section {
     padding: 60px 20px;
     text-align: center;
-}
-
-.section h2 {
-    margin-bottom: 20px;
 }
 
 .gray {
@@ -78,8 +71,8 @@ nav a {
 
 .card {
     background: white;
+    width: 260px;
     padding: 20px;
-    width: 250px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
@@ -99,15 +92,14 @@ nav a {
 .contact-form button {
     width: 100%;
     padding: 10px;
-    background: #003366;
+    background: #0b3c5d;
     color: white;
     border: none;
-    cursor: pointer;
 }
 
 /* Footer */
 footer {
-    background: #003366;
+    background: #0b3c5d;
     color: white;
     text-align: center;
     padding: 15px;
